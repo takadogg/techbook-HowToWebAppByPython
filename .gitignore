@@ -5,3 +5,4 @@ __pycache__/
 .env
 venv/
 .venv/
+book-webservice-sample-1.0.2/
